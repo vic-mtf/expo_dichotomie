@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75c36fc3.chunk.css",
+    "main.js": "/static/js/main.9b43515a.chunk.js",
+    "main.js.map": "/static/js/main.9b43515a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.7b6dbdb8.js",
+    "runtime-main.js.map": "/static/js/runtime-main.7b6dbdb8.js.map",
+    "static/css/2.ce692242.chunk.css": "/static/css/2.ce692242.chunk.css",
+    "static/js/2.b268899b.chunk.js": "/static/js/2.b268899b.chunk.js",
+    "static/js/2.b268899b.chunk.js.map": "/static/js/2.b268899b.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.ce692242.chunk.css.map": "/static/css/2.ce692242.chunk.css.map",
+    "static/css/main.75c36fc3.chunk.css.map": "/static/css/main.75c36fc3.chunk.css.map",
+    "static/js/2.b268899b.chunk.js.LICENSE.txt": "/static/js/2.b268899b.chunk.js.LICENSE.txt",
+    "static/media/Dichotomie.bcc91932.png": "/static/media/Dichotomie.bcc91932.png",
+    "static/media/Newton_iteration.834716ae.png": "/static/media/Newton_iteration.834716ae.png",
+    "static/media/index.css": "/static/media/SamsungOne-400.965a122e.ttf",
+    "static/media/armoirie.02a6ffd3.png": "/static/media/armoirie.02a6ffd3.png",
+    "static/media/iss.44159ad7.png": "/static/media/iss.44159ad7.png",
+    "static/media/plotly.c5ab1f19.png": "/static/media/plotly.c5ab1f19.png",
+    "static/media/recherche_racine_dichotomie2.dfa6eb09.gif": "/static/media/recherche_racine_dichotomie2.dfa6eb09.gif",
+    "static/media/statistic.2490f92e.png": "/static/media/statistic.2490f92e.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7b6dbdb8.js",
+    "static/css/2.ce692242.chunk.css",
+    "static/js/2.b268899b.chunk.js",
+    "static/css/main.75c36fc3.chunk.css",
+    "static/js/main.9b43515a.chunk.js"
+  ]
+}
