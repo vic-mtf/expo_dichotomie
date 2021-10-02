@@ -1,0 +1,20 @@
+.App {
+  /*text-align: center;*/
+  z-index: 1;
+}
+.private-infos {
+	background: #20202c !important;
+	color: #eee;
+}
+
+input[type="number"]::-webkit-inner-spin-button {
+   
+   -webkit-appearance: none;
+   cursor: none;
+   display: none;
+   width: none;
+   color: none;
+   text-align: none;
+   position: none;
+   
+}

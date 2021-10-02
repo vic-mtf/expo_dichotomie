@@ -1,0 +1,44 @@
+.Loader {
+  text-align: center;
+  color: #39f;
+  margin: auto;
+  margin-top:3vw;
+}
+.Loader div {
+	margin-top: 20vh;
+}
+.Loader .private-gear {
+   animation-name: rotate;
+   animation-duration: 1.5s;
+   animation-iteration-count: infinite;
+   animation-timing-function: linear;
+   display: block;
+   position: relative;
+   margin: auto;
+}
+.Loader p {
+  margin-top: 25px;
+  font-weight: bold;
+  font-size: 3vw;
+}
+.Loader #gear-1 {
+  animation-direction: reverse;
+  font-size: 8vw;
+  left: -12px;
+  margin-bottom: -5px;
+ 
+}
+.Loader #gear-2 {
+	font-size: 12vw;
+	left: 12px;
+	margin-bottom: -5px;
+}
+
+@keyframes rotate {
+  to {
+    transform: rotate(0deg);
+  }
+  from{
+    transform: rotate(360deg);
+  }
+}

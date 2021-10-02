@@ -1,0 +1,14 @@
+@font-face {
+	font-family: Samsung;
+	src: url('../assets/SamsungOne-400.ttf');
+}
+
+body {
+  margin: 0;
+  font-family: Samsung;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
